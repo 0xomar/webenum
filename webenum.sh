@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# webenum.py omarfayyad.com
+# webenum.sh omarfayyad.com
 # author: Omar Fayyad
 #
 # script uses one argument as the website
